@@ -62,3 +62,8 @@ No CSP or HSTS headers present. Only ```X-Content-Type-Options```, ```X-Frame-Op
 1) Missing Content Security Policy (CSP) - Easier to execute by allowing arbitrary JavaScript execution
 2) API Endpoint Routing Issues - /rest/products endpoint returns 500
 3) Open CORS Policy - ```Access-Control-Allow-Origin: *``` allows requests from any origin, enabling potential cross-origin attacks and data theft
+
+### Created Issues
+- [Missing Content Security Policy (CSP)](https://github.com/lanebo1/F25-DevSecOps-Intro/issues/2)
+- [API Endpoint Routing Issues](https://github.com/lanebo1/F25-DevSecOps-Intro/issues/3)
+- [Open CORS Policy](https://github.com/lanebo1/F25-DevSecOps-Intro/issues/4)
