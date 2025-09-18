@@ -265,7 +265,7 @@ technical_assets:
       To App:
         target: juice-shop
         description: "Proxy to app (HTTP 3000)."
-        protocol: http
+        protocol: https
         authentication: none
         authorization: none
         tags: []
