@@ -1,23 +1,21 @@
-# Goal 
-Security Analysis: SAST & DAST of OWASP Juice Shop
+# Goal
+
+<!-- Describe the objective of this PR -->
 
 ## Changes
 
-Add `submission5.md`
+<!-- List the key changes made -->
 
 ## Testing
 
-Ran commands from `lab5.md`
+<!-- Describe how you tested the changes -->
 
 ## Artifacts & Screenshots
 
-Attached
+<!-- Include screenshots, test results, or other relevant artifacts -->
 
 ---
 
-- [x] Clear, descriptive PR title
-- [x] Documentation updated if needed
-- [x] No secrets or large temporary files included
-- [x] Task 1 done — SAST Analysis with Semgrep
-- [x] Task 2 done — DAST Analysis (ZAP + Nuclei + Nikto + SQLmap)
-- [x] Task 3 done — SAST/DAST Correlation
+- [ ] Clear, descriptive PR title
+- [ ] Documentation updated if needed
+- [ ] No secrets or large temporary files included
