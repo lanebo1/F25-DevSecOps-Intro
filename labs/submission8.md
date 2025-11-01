@@ -11,7 +11,7 @@
 **How attestations differ from signatures:**
 
 - **Signatures** provide cryptographic proof that an artifact was signed by a specific key holder, establishing authenticity and integrity.
-- **Attestations** provide additional contextual information about the artifact, such as what it contains (SBOM) or how it was built (provenance). They are signed statements that can be verified independently.
+- **Attestations** provide additional contextual information about the artifact, such as what it contains (SBOM) or how it was built (provenance). They are signed statements that can be verified independently. 
 
 **SBOM attestation content:**
 The SBOM attestation contains a comprehensive CycloneDX-formatted bill of materials including:
