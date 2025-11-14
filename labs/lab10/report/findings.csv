@@ -1,0 +1,162 @@
+1,"CVE-2022-27943 GCC-12-Base 12.2.0-14+deb12u1","Medium",,"2025-11-14",true
+2,"CVE-2025-4802 Libc6 2.36-9+deb12u10","High",,"2025-11-14",true
+3,"CVE-2025-8058 Libc6 2.36-9+deb12u10","Medium",,"2025-11-14",true
+4,"CVE-2010-4756 Libc6 2.36-9+deb12u10","Medium",,"2025-11-14",true
+5,"CVE-2018-20796 Libc6 2.36-9+deb12u10","High",,"2025-11-14",true
+6,"CVE-2019-1010022 Libc6 2.36-9+deb12u10","Critical",,"2025-11-14",true
+7,"CVE-2019-1010023 Libc6 2.36-9+deb12u10","High",,"2025-11-14",true
+8,"CVE-2019-1010024 Libc6 2.36-9+deb12u10","Medium",,"2025-11-14",true
+9,"CVE-2019-1010025 Libc6 2.36-9+deb12u10","Medium",,"2025-11-14",true
+10,"CVE-2019-9192 Libc6 2.36-9+deb12u10","High",,"2025-11-14",true
+11,"CVE-2022-27943 Libgcc-S1 12.2.0-14+deb12u1","Medium",,"2025-11-14",true
+12,"CVE-2022-27943 Libgomp1 12.2.0-14+deb12u1","Medium",,"2025-11-14",true
+13,"CVE-2025-9230 Libssl3 3.0.17-1~deb12u2","Medium",,"2025-11-14",true
+14,"CVE-2025-27587 Libssl3 3.0.17-1~deb12u2","Low",,"2025-11-14",true
+15,"CVE-2025-9232 Libssl3 3.0.17-1~deb12u2","Low",,"2025-11-14",true
+16,"CVE-2022-27943 Libstdc++6 12.2.0-14+deb12u1","Medium",,"2025-11-14",true
+17,"NSWG-ECO-428 Base64url 0.0.6","High",,"2025-11-14",true
+18,"GHSA-rvg8-pwq2-xj7q Base64url 0.0.6","Medium",,"2025-11-14",true
+19,"CVE-2024-4068 Braces 2.3.2","High",,"2025-11-14",true
+20,"CVE-2024-47764 Cookie 0.4.2","Low",,"2025-11-14",true
+21,"CVE-2023-46233 Crypto-Js 3.3.0","Critical",,"2025-11-14",true
+22,"CVE-2022-41940 engine.io 4.1.2","Medium",,"2025-11-14",true
+23,"CVE-2020-15084 Express-JWT 0.1.3","High",,"2025-11-14",true
+24,"CVE-2022-33987 Got 8.3.2","Medium",,"2025-11-14",true
+25,"CVE-2022-25881 HTTP-Cache-Semantics 3.8.1","High",,"2025-11-14",true
+26,"CVE-2024-29415 Ip 2.0.1","High",,"2025-11-14",true
+27,"CVE-2015-9235 Jsonwebtoken 0.1.0","Critical",,"2025-11-14",true
+28,"CVE-2022-23539 Jsonwebtoken 0.1.0","High",,"2025-11-14",true
+29,"NSWG-ECO-17 Jsonwebtoken 0.1.0","High",,"2025-11-14",true
+30,"CVE-2022-23540 Jsonwebtoken 0.1.0","Medium",,"2025-11-14",true
+31,"CVE-2022-23541 Jsonwebtoken 0.1.0","Medium",,"2025-11-14",true
+32,"CVE-2015-9235 Jsonwebtoken 0.4.0","Critical",,"2025-11-14",true
+33,"CVE-2022-23539 Jsonwebtoken 0.4.0","High",,"2025-11-14",true
+34,"NSWG-ECO-17 Jsonwebtoken 0.4.0","High",,"2025-11-14",true
+35,"CVE-2022-23540 Jsonwebtoken 0.4.0","Medium",,"2025-11-14",true
+36,"CVE-2022-23541 Jsonwebtoken 0.4.0","Medium",,"2025-11-14",true
+37,"CVE-2016-1000223 JWS 0.2.6","High",,"2025-11-14",true
+38,"CVE-2019-10744 Lodash 2.4.2","Critical",,"2025-11-14",true
+39,"CVE-2018-16487 Lodash 2.4.2","Medium",,"2025-11-14",true
+40,"CVE-2021-23337 Lodash 2.4.2","High",,"2025-11-14",true
+41,"CVE-2018-3721 Lodash 2.4.2","Medium",,"2025-11-14",true
+42,"CVE-2020-8203 lodash.set 4.3.2","High",,"2025-11-14",true
+43,"GHSA-5mrr-rgp6-x4gr Marsdb 0.6.11","Critical",,"2025-11-14",true
+44,"CVE-2025-57349 Messageformat 2.3.0","Low",,"2025-11-14",true
+45,"CVE-2024-4067 Micromatch 3.1.10","Medium",,"2025-11-14",true
+46,"CVE-2017-18214 Moment 2.0.0","High",,"2025-11-14",true
+47,"CVE-2022-24785 Moment 2.0.0","High",,"2025-11-14",true
+48,"CVE-2016-4055 Moment 2.0.0","Medium",,"2025-11-14",true
+49,"CVE-2025-47935 Multer 1.4.5-lts.2","High",,"2025-11-14",true
+50,"CVE-2025-47944 Multer 1.4.5-lts.2","High",,"2025-11-14",true
+51,"CVE-2025-48997 Multer 1.4.5-lts.2","Medium",,"2025-11-14",true
+52,"CVE-2025-7338 Multer 1.4.5-lts.2","High",,"2025-11-14",true
+53,"CVE-2021-23771 Notevil 1.3.3","Medium",,"2025-11-14",true
+54,"CVE-2022-25887 Sanitize-HTML 1.4.2","High",,"2025-11-14",true
+55,"CVE-2016-1000237 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+56,"CVE-2017-16016 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+57,"CVE-2019-25225 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+58,"CVE-2021-26539 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+59,"CVE-2021-26540 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+60,"CVE-2024-21501 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+61,"NSWG-ECO-154 Sanitize-HTML 1.4.2","Medium",,"2025-11-14",true
+62,"CVE-2024-38355 socket.io 3.1.2","High",,"2025-11-14",true
+63,"CVE-2023-32695 socket.io-parser 4.0.5","High",,"2025-11-14",true
+64,"CVE-2024-28863 Tar 4.4.19","Medium",,"2025-11-14",true
+65,"CVE-2025-59343 Tar-Fs 2.1.3","High",,"2025-11-14",true
+66,"CVE-2023-32314 Vm2 3.9.17","Critical",,"2025-11-14",true
+67,"CVE-2023-37466 Vm2 3.9.17","Critical",,"2025-11-14",true
+68,"CVE-2023-37903 Vm2 3.9.17","Critical",,"2025-11-14",true
+69,"CVE-2023-32313 Vm2 3.9.17","Medium",,"2025-11-14",true
+70,"CVE-2024-37890 Ws 7.4.6","High",,"2025-11-14",true
+71,"Secret Detected in /juice-shop/build/lib/insecurity.js - Asymmetric Private Key","High",,"2025-11-14",false
+72,"Secret Detected in /juice-shop/frontend/src/app/app.guard.spec.ts - JWT Token","Medium",,"2025-11-14",false
+73,"Secret Detected in /juice-shop/frontend/src/app/last-login-ip/last-login-ip.component.spec.ts - JWT Token","Medium",,"2025-11-14",false
+74,"Secret Detected in /juice-shop/lib/insecurity.ts - Asymmetric Private Key","High",,"2025-11-14",false
+75,"DNS Rebinding Attack","Low",,"2025-10-10",false
+76,"Public Swagger API - Detect","Info",,"2025-10-10",false
+77,"Missing Subresource Integrity","Info",,"2025-10-10",false
+78,"External Service Interaction","Info",,"2025-10-10",false
+79,"X-Recruiting Header","Info",,"2025-10-10",false
+80,"security.txt File","Info",,"2025-10-10",false
+81,"FingerprintHub Technology Fingerprint","Info",,"2025-10-10",false
+82,"Prometheus Metrics - Detect","Medium",,"2025-10-10",false
+83,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+84,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+85,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+86,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+87,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+88,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+89,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+90,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+91,"HTTP Missing Security Headers","Info",,"2025-10-10",false
+92,"robots.txt Endpoint Prober","Info",,"2025-10-10",false
+93,"robots.txt File","Info",,"2025-10-10",false
+94,"Add DOM EventListener - Detection","Info",,"2025-10-10",false
+95,"OWASP Juice Shop","Info",,"2025-10-10",false
+96,"NS Record Detection","Info",,"2025-10-10",false
+97,"CAA Record","Info",,"2025-10-10",false
+98,"GHSA-whpj-8f3w-67p5 in vm2:3.9.17","Critical",,"2025-11-14",false
+99,"GHSA-c7hr-j4mj-j2w6 in jsonwebtoken:0.1.0","Critical",,"2025-11-14",false
+100,"GHSA-c7hr-j4mj-j2w6 in jsonwebtoken:0.4.0","Critical",,"2025-11-14",false
+101,"GHSA-g644-9gfx-q4q4 in vm2:3.9.17","Critical",,"2025-11-14",false
+102,"GHSA-cchq-frgv-rjh5 in vm2:3.9.17","Critical",,"2025-11-14",false
+103,"GHSA-2p57-rm9w-gvfp in ip:2.0.1","High",,"2025-11-14",false
+104,"GHSA-r7qp-cfhv-p84w in engine.io:4.1.2","Medium",,"2025-11-14",false
+105,"GHSA-p6mc-m468-83gw in lodash.set:4.3.2","High",,"2025-11-14",false
+106,"GHSA-jf85-cpcp-j695 in lodash:2.4.2","Critical",,"2025-11-14",false
+107,"GHSA-xwcq-pm8m-c4vf in crypto-js:3.3.0","Critical",,"2025-11-14",false
+108,"GHSA-87vv-r9j6-g5qv in moment:2.0.0","Medium",,"2025-11-14",false
+109,"GHSA-rm97-x556-q36h in sanitize-html:1.4.2","Medium",,"2025-11-14",false
+110,"GHSA-8hfj-j24r-96c4 in moment:2.0.0","High",,"2025-11-14",false
+111,"GHSA-pfrx-2q88-qq97 in got:8.3.2","Medium",,"2025-11-14",false
+112,"GHSA-3h5v-q93c-6h6q in ws:7.4.6","High",,"2025-11-14",false
+113,"GHSA-p5gc-c584-jj6v in vm2:3.9.17","Medium",,"2025-11-14",false
+114,"GHSA-35jh-r3h4-6jhm in lodash:2.4.2","High",,"2025-11-14",false
+115,"GHSA-446m-mv8f-q348 in moment:2.0.0","High",,"2025-11-14",false
+116,"GHSA-3j7m-hmh3-9jmp in sanitize-html:1.4.2","Medium",,"2025-11-14",false
+117,"GHSA-8g4m-cjm2-96wq in notevil:1.3.3","Medium",,"2025-11-14",false
+118,"GHSA-4xc9-xhrj-v574 in lodash:2.4.2","High",,"2025-11-14",false
+119,"GHSA-mjxr-4v3x-q3m4 in sanitize-html:1.4.2","Medium",,"2025-11-14",false
+120,"GHSA-rjqq-98f6-6j3r in sanitize-html:1.4.2","Medium",,"2025-11-14",false
+121,"GHSA-xc6g-ggrc-qq4r in sanitize-html:1.4.2","Medium",,"2025-11-14",false
+122,"GHSA-grv7-fg5c-xmjg in braces:2.3.2","High",,"2025-11-14",false
+123,"GHSA-rc47-6667-2j5j in http-cache-semantics:3.8.1","High",,"2025-11-14",false
+124,"GHSA-f5x3-32g6-xq36 in tar:4.4.19","Medium",,"2025-11-14",false
+125,"GHSA-cqmj-92xf-r6r9 in socket.io-parser:4.0.5","Medium",,"2025-11-14",false
+126,"CVE-2018-20796 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+127,"GHSA-fvqr-27wr-82fm in lodash:2.4.2","Medium",,"2025-11-14",false
+128,"GHSA-6g6m-m6h5-w9gf in express-jwt:0.1.3","High",,"2025-11-14",false
+129,"GHSA-25hc-qcg6-38wj in socket.io:3.1.2","Medium",,"2025-11-14",false
+130,"GHSA-952p-6rrq-rcjv in micromatch:3.1.10","Medium",,"2025-11-14",false
+131,"GHSA-vj76-c3g6-qr5v in tar-fs:2.1.3","High",,"2025-11-14",false
+132,"GHSA-g5hg-p3ph-g8qg in multer:1.4.5-lts.2","High",,"2025-11-14",false
+133,"GHSA-8cf7-32gw-wr33 in jsonwebtoken:0.1.0","High",,"2025-11-14",false
+134,"GHSA-8cf7-32gw-wr33 in jsonwebtoken:0.4.0","High",,"2025-11-14",false
+135,"GHSA-cgfm-xwp7-2cvr in sanitize-html:1.4.2","High",,"2025-11-14",false
+136,"CVE-2019-1010023 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+137,"GHSA-44fp-w29j-9vj5 in multer:1.4.5-lts.2","High",,"2025-11-14",false
+138,"GHSA-4pg4-qvpc-4q3h in multer:1.4.5-lts.2","High",,"2025-11-14",false
+139,"GHSA-hjrf-2m68-5959 in jsonwebtoken:0.1.0","Medium",,"2025-11-14",false
+140,"GHSA-hjrf-2m68-5959 in jsonwebtoken:0.4.0","Medium",,"2025-11-14",false
+141,"GHSA-pxg6-pf52-xh8x in cookie:0.4.2","Low",,"2025-11-14",false
+142,"CVE-2019-1010024 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+143,"CVE-2010-4756 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+144,"CVE-2019-9192 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+145,"GHSA-qhxp-v273-g94h in sanitize-html:1.4.2","Medium",,"2025-11-14",false
+146,"CVE-2025-9230 in libssl3:3.0.17-1~deb12u2","High",,"2025-11-14",false
+147,"CVE-2025-9232 in libssl3:3.0.17-1~deb12u2","Medium",,"2025-11-14",false
+148,"GHSA-fjgf-rc76-4x9p in multer:1.4.5-lts.2","High",,"2025-11-14",false
+149,"CVE-2019-1010025 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+150,"GHSA-qwph-4952-7xr6 in jsonwebtoken:0.1.0","Medium",,"2025-11-14",false
+151,"GHSA-qwph-4952-7xr6 in jsonwebtoken:0.4.0","Medium",,"2025-11-14",false
+152,"CVE-2025-4802 in libc6:2.36-9+deb12u10","High",,"2025-11-14",false
+153,"CVE-2019-1010022 in libc6:2.36-9+deb12u10","Info",,"2025-11-14",false
+154,"CVE-2025-8058 in libc6:2.36-9+deb12u10","Medium",,"2025-11-14",false
+155,"CVE-2025-27587 in libssl3:3.0.17-1~deb12u2","Info",,"2025-11-14",false
+156,"CVE-2022-27943 in gcc-12-base:12.2.0-14+deb12u1","Info",,"2025-11-14",false
+157,"CVE-2022-27943 in libgcc-s1:12.2.0-14+deb12u1","Info",,"2025-11-14",false
+158,"CVE-2022-27943 in libgomp1:12.2.0-14+deb12u1","Info",,"2025-11-14",false
+159,"CVE-2022-27943 in libstdc++6:12.2.0-14+deb12u1","Info",,"2025-11-14",false
+160,"GHSA-5mrr-rgp6-x4gr in marsdb:0.6.11","Critical",,"2025-11-14",false
+161,"GHSA-gjcw-v447-2w7q in jws:0.2.6","High",,"2025-11-14",false
+162,"GHSA-rvg8-pwq2-xj7q in base64url:0.0.6","Medium",,"2025-11-14",false
