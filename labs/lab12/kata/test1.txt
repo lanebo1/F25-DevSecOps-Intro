@@ -1,0 +1,1 @@
+Linux kata-guest 6.12.47

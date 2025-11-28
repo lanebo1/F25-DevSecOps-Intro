@@ -1,0 +1,10 @@
+=== dmesg Access Test ===
+Host dmesg (first 5 lines):
+[    0.000000] Linux version 6.14.0-1015-oem (buildd@lcy02-amd64-042) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #15-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 17 07:49:59 UTC 2025 (Ubuntu 6.14.0-1015.15-oem 6.14.11)
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-6.14.0-1015-oem root=UUID=92d504be-f049-4500-b673-01382e6d1ee1 ro quiet splash amdgpu.dcdebugmask=0x10
+[    0.000000] KERNEL supported cpus:
+[    0.000000]   Intel GenuineIntel
+[    0.000000]   AMD AuthenticAMD
+Kata VM (separate kernel boot logs):
+[    0.000000] Booting Linux on physical CPU 0x0000000000 [0x00000000]
+[    0.000000] Linux version 6.12.47 (kata-containers)
