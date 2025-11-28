@@ -1,0 +1,5 @@
+=== CPU Model Comparison ===
+Host CPU:
+model name	: AMD Ryzen AI 9 365 w/ Radeon 880M
+Kata VM CPU:
+model name	: QEMU Virtual CPU version 2.5+
