@@ -1,0 +1,28 @@
+2025-11-07T13:45:00+0000: Falco version: 0.42.1 (x86_64)
+2025-11-07T13:45:00+0000: Falco initialized with configuration files:
+2025-11-07T13:45:00+0000:    /etc/falco/config.d/falco.container_plugin.yaml | schema validation: ok
+2025-11-07T13:45:00+0000:    /etc/falco/config.d/falco.iso8601_timeformat.yaml | schema validation: ok
+2025-11-07T13:45:00+0000:    /etc/falco/falco.yaml | schema validation: ok
+2025-11-07T13:45:00+0000: System info: Linux version 6.10.14-linuxkit (root@buildkitsandbox) (gcc (Alpine 13.2.1_git20240309) 13.2.1 20240309, GNU ld (GNU Binutils) 2.42) #1 SMP PREEMPT_DYNAMIC Wed Sep  3 15:37:39 UTC 2025
+2025-11-07T13:45:00+0000: [libs]: Cannot read host init process proc root: 2
+2025-11-07T13:45:00+0000: Loaded plugin 'container@0.4.1' from file /usr/share/falco/plugins/libcontainer.so
+2025-11-07T13:45:00+0000: [libs]: Cannot read host init process proc root: 2
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'podman' container engine.
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/run/podman/podman.sock'
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'docker' container engine.
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/var/run/docker.sock'
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'cri' container engine.
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/run/containerd/containerd.sock'
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/run/crio/crio.sock'
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/run/k3s/containerd/containerd.sock'
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/run/host-containerd/containerd.sock'
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'containerd' container engine.
+2025-11-07T13:45:00+0000: [libs]: container: * enabled container runtime socket at '/host/run/host-containerd/containerd.sock'
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'lxc' container engine.
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'libvirt_lxc' container engine.
+2025-11-07T13:45:00+0000: [libs]: container: Enabled 'bpm' container engine.
+2025-11-07T13:45:00+0000: Loading rules from:
+2025-11-07T13:45:00+0000:    /etc/falco/falco_rules.yaml | schema validation: ok
+2025-11-07T13:45:00+0000:    /etc/falco/falco_rules.local.yaml | schema validation: none
+2025-11-07T13:45:00+0000:    /etc/falco/rules.d/custom-rules.yaml | schema validation: ok
+2025-11-07T13:45:00+0000: The chosen syscall buffer dimension is: 8388608 bytes (8 MBs)
